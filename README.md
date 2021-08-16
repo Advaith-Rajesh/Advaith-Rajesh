@@ -21,7 +21,7 @@ console.log("I am a very avid coder!")
 System.out.println("I am a very avid coder!")
 ```
 ```C
-cout >> "I am a very avid coder!"
+printf("I am a very avid coder!")
 ```
 ```c++
 std::cout >> "I am a very avid coder!"
